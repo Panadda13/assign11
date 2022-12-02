@@ -15,16 +15,16 @@
                     <div class="box-container">
 
                         <div class="box">
-                            <h3> <span>name : </span> Abhisit Ukham </h3>
-                            <h3> <span>age : </span> 29 </h3>
-                            <h3> <span>email : </span> abhisit@ukham.com </h3>
-                            <h3> <span>address : </span> Nontaburi, Thailand 11110 </h3>
+                            <h3> <span>name : </span> Panadda Sawangphol </h3>
+                            <h3> <span>age : </span> 20 </h3>
+                            <h3> <span>email : </span> panadda.sawa@bumail.net </h3>
+                            <h3> <span>address : </span> Chanthaburi, Thailand 22160 </h3>
                         </div>
 
                         <div class="box">
-                            <h3> <span>freelance : </span> available </h3>
-                            <h3> <span>skill : </span> Full Stack Engineer </h3>
-                            <h3> <span>experience : </span> 6 years </h3>
+                            <h3> <span>Faculty of : </span> Engineering </h3>
+                            <h3> <span>Department of: </span> Multimedia and Entertainment </h3>
+                            <h3> <span>Study at : </span> Bangkok University </h3>
                             <h3> <span>language : </span> thai </h3>
                         </div>
 
@@ -38,18 +38,18 @@
                 <div class="count-container">
 
                     <div class="box">
-                        <h3>5+</h3>
-                        <p>years of experience</p>
+                        <h3>2013-2017</h3>
+                        <p>Lambertpitchayalai school</p>
                     </div>
 
                     <div class="box">
-                        <h3>10+</h3>
-                        <p>happy clients</p>
+                        <h3>2018-2020</h3>
+                        <p>Siyanusorn school</p>
                     </div>
 
                     <div class="box">
-                        <h3>20+</h3>
-                        <p>project completed</p>
+                        <h3>2021-Present</h3>
+                        <p>Bangkok University</p>
                     </div>
 
                     <div class="box">
@@ -104,66 +104,6 @@
 
         <!-- education section starts  -->
 
-        <section class="education">
-
-            <h1 class="heading"> <span>my</span> experience </h1>
-
-            <div class="box-container">
-
-                <div class="box">
-                    <i class="fas fa-briefcase"></i>
-                    <span>2016 - 2017</span>
-                    <h3>INTER EXPRESS LOGISTICS PRIVATE LIMITED</h3>
-                    <p>Assist the system analyst in conduct analysis, architecture, design database model for the new
-                        application.</p>
-                </div>
-
-                <div class="box">
-                    <i class="fas fa-briefcase"></i>
-                    <span>2017 - 2018</span>
-                    <h3>PTT Digital Solutions Company Limited</h3>
-                    <p>Front-end coding to develop web applications follows by mock-up screen design. And back-end
-                        coding
-                        and test to configuration workflows and business processes.</p>
-                </div>
-
-                <div class="box">
-                    <i class="fas fa-briefcase"></i>
-                    <span>2018 - 2018</span>
-                    <h3>Thai Beverage PLC</h3>
-                    <p>Develop new features to facilitate related procedures and tools if necessary, Troubleshoot, test,
-                        and
-                        maintain the core product software and databases to ensure strong optimization and
-                        functionality.
-                    </p>
-                </div>
-
-                <div class="box">
-                    <i class="fas fa-briefcase"></i>
-                    <span>2019 - 2020</span>
-                    <h3>Cigna</h3>
-                    <p>Assist the system analyst in conduct analysis, architecture, design database model for the new
-                        application.</p>
-                </div>
-
-                <div class="box">
-                    <i class="fas fa-briefcase"></i>
-                    <span>2019 - 2020</span>
-                    <h3>EMETWORKS</h3>
-                    <p>Develop new features to facilitate related procedures and tools if necessary.</p>
-                </div>
-
-                <div class="box">
-                    <i class="fas fa-briefcase"></i>
-                    <span>2020 - 2021</span>
-                    <h3>uTech Solutions</h3>
-                    <p>Assist the system analyst in conduct analysis, architecture, design database model for the new
-                        application.</p>
-                </div>
-
-            </div>
-
-        </section>
     </div>
 </template>
 
